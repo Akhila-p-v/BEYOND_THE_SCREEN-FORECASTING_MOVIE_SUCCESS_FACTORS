@@ -51,17 +51,34 @@ This dataset provides comprehensive information about movies, capturing various 
 Deploying a machine learning model in Streamlit is a straightforward process. Streamlit is a Python library that allows you to create interactive web applications for data science and machine learning projects. A Streamlit web application was developed to host the trained machine learning model. The application provides users with a user-friendly interface to input movie features and receive predictions for IMDb score categories. The design emphasizes simplicity and interactivity.
 
 •	Begin by installing Streamlit using pip.
+
 •	Imported the necessary libraries such as pandas, NumPy, scikit-learn and pickle along with Streamlit.
+
 •	Defined the layout of the application.
+
 •	Added widgets for user input. Users can input 13 features related to movies like duration,director_facebook_likes,actor_3_facebook_likes,actor_1_facebook_likes,gross,num_voted_users,facenumber_in_poster,num_user_for_reviews,budget,title_year,actor_2_facebook_likes and  movie_facebook_likes.
+
 •	Loaded the pre-trained Random Forest model into memory.
+
 •	Performed predictions based on user input.
+
 •	Presented the prediction to the user.
+
 •	Once the app runned locally, deployed it to Streamlit Sharing.
 
 
 
 **Hosted Website:** 
 
-Screenshots
+# Screenshots
+
+![Average Prediction](https://github.com/Akhila-p-v/BEYOND_THE_SCREEN-FORECASTING_MOVIE_SUCCESS_FACTORS/blob/main/average.png)
+*Average:* The movie is predicted to be a success.
+
+![Good Prediction](https://github.com/Akhila-p-v/BEYOND_THE_SCREEN-FORECASTING_MOVIE_SUCCESS_FACTORS/blob/main/good.png)
+*Good:* The movie is predicted to be a success.
+
+![Poor Prediction](https://github.com/Akhila-p-v/BEYOND_THE_SCREEN-FORECASTING_MOVIE_SUCCESS_FACTORS/blob/main/poor.png)
+*Poor:* The movie is predicted not to be a success.
+
 
