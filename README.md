@@ -68,7 +68,7 @@ Deploying a machine learning model in Streamlit is a straightforward process. St
 
 
 
-**Hosted Website:** 
+Hosted Website:https://akhila-p-v-beyond-the-screen-forecasting-movie-succe-app-jnctyu.streamlit.app/ 
 
 # Screenshots
 
