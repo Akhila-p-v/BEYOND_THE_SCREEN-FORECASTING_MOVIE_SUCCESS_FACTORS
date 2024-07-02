@@ -6,6 +6,12 @@ Exploring the IMDb 5000 movies dataset, we aim to decode the elements of cinemat
 
 To share our insights, we've developed a user-friendly Streamlit web app. This tool allows users to input key movie features and receive predictions on the IMDb score category—Poor, Average, or Good. Our goal is to empower filmmakers and industry professionals with actionable predictions to navigate the evolving film landscape confidently.
 
+<div align="center">
+  <img src="https://github.com/Akhila-p-v/Streamlit_noscale/blob/main/moviegif.gif" alt="Animated GIF" width="1200" height="900">
+</div>
+
+
+
 # Problem Statement
 
 Our main goal is to develop robust models capable of predicting two key aspects of a movie's performance: its IMDb category and whether it succeeds or not. We'll analyze the dataset extensively using machine learning techniques to uncover the factors influencing a movie's categorization and success. These insights will be invaluable for filmmakers, producers, and the movie industry's advancement overall.
