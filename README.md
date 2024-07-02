@@ -5,10 +5,11 @@
 Exploring the IMDb 5000 movies dataset, we aim to decode the elements of cinematic success. Our analysis spans directors, actors, genres, and budgets to predict a film's IMDb category and success. Using advanced machine learning, we identify key factors influencing movie performance. After evaluating various models, we find the Random Forest algorithm to be the most accurate, achieving an impressive accuracy of 0.8094, even with minimal hyperparameter tuning.
 
 To share our insights, we've developed a user-friendly Streamlit web app. This tool allows users to input key movie features and receive predictions on the IMDb score category—Poor, Average, or Good. Our goal is to empower filmmakers and industry professionals with actionable predictions to navigate the evolving film landscape confidently.
-
 <div align="center">
-  <img src="https://github.com/Akhila-p-v/Streamlit_noscale/blob/main/moviegif.gif" alt="Animated GIF" width="1200" height="900">
+  <img src="https://github.com/Akhila-p-v/Streamlit_noscale/blob/main/moviegif.gif" alt="Animated GIF" width="800" height="500">
 </div>
+
+
 
 
 
